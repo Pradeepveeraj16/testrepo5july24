@@ -1,2 +1,4 @@
 Text File 1
 line 2
+merge conflict check
+
